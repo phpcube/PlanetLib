@@ -1,0 +1,13 @@
+name: PlanetLib
+main: ru.planetpe.planetlib.PlanetLib
+version: '0.1'
+load: STARTUP
+
+description: |
+  PlanetLib — универсальная библиотека для плагинов Planet.
+  Включает: Kotlin, Coroutines, Serialization, HikariCP, MySQL, SQLite,
+  Adventure, Gson, Caffeine, JsonPath.
+  Обеспечивает совместимость, производительность и единый API.
+
+authors: [ t.me/planetpe ]
+website: t.me/planetpe
